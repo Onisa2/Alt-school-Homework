@@ -1,5 +1,5 @@
 # Alt-school-Homework
-Here are the commands i used to accomplish each task:
+Here are the commands i used to accomplish each task and for this homework i used my Ubuntu installed machine cli:
 Prerequisite:Created altschool user 
 Ans :sudo useradd -m altschool 
 sudo passwd altschool
